@@ -3,14 +3,14 @@ layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 country: "ZA"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-humandate: "May 17-21, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Sep 13-17, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "08:30 am - 13:00 pm UTC +2"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2021-05-17      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2020-05-21        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Martin Dreyer", "Angelique van Rensburg","Bianca Peterson","TBC"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+startdate: 2021-09-13      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2020-09-17        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Martin Dreyer", "Angelique van Rensburg","TBC"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Sebastian Mosidi","TBC"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["sebastian.mosidi@nwu.ac.za"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-etherpad:   https://pad.carpentries.org/2021-05-17-NWU-ONLINE          # optional: URL for the workshop Etherpad if there is one
+etherpad:   https://pad.carpentries.org/2021-09-13-ttt-CarpentryConnect          # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
@@ -159,7 +159,7 @@ or anything else, please get in touch.
 
 <h3>Application</h3>
 
-Pleaes use this <a href ="https://forms.gle/3r2t9HwEqAc9RBRv9"><b>application form</b></a>.
+Pleaes use this <a href ="https://forms.gle/PK2NHpncFpQcenxB9"><b>application form</b></a>.
 Successful candidates will be notified via email.
 
 
