@@ -13,8 +13,8 @@ contact: ["TBC"]    # boxed, comma-separated list of contact email addresses for
 etherpad:   https://pad.carpentries.org/2021-09-13-ttt-CarpentryConnect          # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
-  - venue: Online
-    address: https://carpentries.zoom.us/j/96920832919?pwd=ZDhPRy91dTBlYVIxQUEyWDZ1MExhdz09 
+  - venue: "Online"
+    address: "https://carpentries.zoom.us/j/96920832919?pwd=ZDhPRy91dTBlYVIxQUEyWDZ1MExhdz09" 
     
 ---
 
