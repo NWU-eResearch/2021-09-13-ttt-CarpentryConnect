@@ -107,7 +107,7 @@ locations:
 
 {% if online == "online" %}
 
-This is an online event. We will meet using the online videoconference software Zoom. You will need to <a href="https://zoom.us/download">download and install their client</a> to connect with your instructors. The link to use for this event is <{{ loc.address }}> Use passcode <b>561589</b> when asked..
+This is an online event. We will meet using the online videoconference software Zoom. You will need to <a href="https://zoom.us/download">download and install their client</a> to connect with your instructors. The link to use for this event is <{{ loc.address }}>. Use passcode <b>561589</b> when asked..
 
 {% else %}
 {% assign inperson = "true" %}
@@ -159,7 +159,7 @@ or anything else, please get in touch.
 
 <h3>Application</h3>
 
-Pleaes use this <a href ="https://forms.gle/PK2NHpncFpQcenxB9"><b>application form</b></a>.
+Please use this <a href ="https://forms.gle/PK2NHpncFpQcenxB9"><b>application form</b></a>.
 Successful candidates will be notified via email.
 
 
