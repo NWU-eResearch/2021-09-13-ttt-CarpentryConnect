@@ -12,7 +12,7 @@ instructor: ["TBC"] # boxed, comma-separated list of instructors' names as strin
 helper: ["TBC"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["admin-afr@carpentries.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 etherpad:   https://pad.carpentries.org/2021-09-13-ttt-CarpentryConnect          # optional: URL for the workshop Etherpad if there is one
-eventbrite: 157963989545     # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+#eventbrite: 157963989545     # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
     address: "https://carpentries.zoom.us/j/96920832919?pwd=ZDhPRy91dTBlYVIxQUEyWDZ1MExhdz09" 
